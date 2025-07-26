@@ -7,10 +7,8 @@
 
 <table>
   <tr>
-    <!-- About Me Section -->
     <td width="60%" valign="top">
       <h2>👨‍💻 About Me</h2>
-      
       <p>
         Passionate Backend Engineer and ML Practitioner with expertise in:
       </p>
@@ -18,12 +16,10 @@
         <li>Designing scalable backend architectures</li>
         <li>Developing machine learning models</li>
       </ul>
-      
       <div align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Belajar+itu+harus%2C+pintar+itu+bonus;Code+now%2C+debug+later;Keep+it+simple+but+powerful" alt="Typing SVG" />
       </div>
     </td>
-    
     <!-- Profile Image -->
     <td width="40%" valign="top">
       <div align="center">
