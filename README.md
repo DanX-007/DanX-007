@@ -20,13 +20,6 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Belajar+itu+harus%2C+pintar+itu+bonus;Code+now%2C+debug+later;Keep+it+simple+but+powerful" alt="Typing SVG" />
       </div>
     </td>
-    <!-- Profile Image -->
-    <td width="40%" valign="top">
-      <div align="center">
-        <img src="https://pomf2.lain.la/f/tzxlwp9d.jpg" width="200px" style="border-radius:50%;box-shadow:0 0 10px rgba(0,0,0,0.3)" alt="Dani Setiawan"/>
-        <br><br>
-      </div>
-    </td>
   </tr>
 </table>
 
