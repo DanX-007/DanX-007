@@ -25,7 +25,6 @@
       <div align="center">
         <img src="https://pomf2.lain.la/f/tzxlwp9d.jpg" width="200px" style="border-radius:50%;box-shadow:0 0 10px rgba(0,0,0,0.3)" alt="Dani Setiawan"/>
         <br><br>
-        <img src="https://komarev.com/ghpvc/?username=DanX-007&label=Profile%20views&color=0e75b6&style=flat" alt="DanX-007" />
       </div>
     </td>
   </tr>
@@ -93,7 +92,6 @@
   
   <!-- Custom Quote -->
   <div align="center" style="margin-top:20px;padding:10px;background:#1F1F1F;border-radius:8px;width:80%">
-    <p style="font-style:italic;color:#F8F8F8">"Belajar itu harus, pintar itu bonus"</p>
-    <p style="color:#BBBBBB">- Dani Setiawan</p>
+    <p style="color:#BBBBBB">© Dani Setiawan</p>
   </div>
 </div>
