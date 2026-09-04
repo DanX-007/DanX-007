@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎭 DANI SETIAWAN
+# DANI SETIAWAN
 
 ### `BACKEND DEVELOPER` • `ML ENTHUSIAST`
 
@@ -14,14 +14,13 @@
 
 ---
 
-## 🃏 WHO AM I?
+## WHO AM I?
 
 ```js
 const dani = {
     role: "Backend Developer & ML Enthusiast",
     location: "Indonesia 🇮🇩",
     currentlyLearning: ["Backend Architecture", "Machine Learning"],
-    philosophy: "Belajar itu harus, pintar itu bonus."
 };
 ```
 
@@ -35,7 +34,7 @@ I enjoy building systems, solving problems, and exploring how software and machi
 
 ### CORE
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,java" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,cpp" />
 
 ### BACKEND
 
