@@ -1,90 +1,105 @@
 <div align="center">
-  
-# Hi there, I'm Dani Setiawan! 👋
-**Backend & Machine Learning Engineer** | **Building Intelligent Systems**
-  
+
+# 🎭 DANI SETIAWAN
+
+### `BACKEND DEVELOPER` • `ML ENTHUSIAST`
+
+> *"Take your time."*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E60012&center=true&vCenter=true&width=500&lines=Building+things+that+actually+work.;Code.+Learn.+Repeat.;Keep+it+simple%2C+but+powerful." />
+
 </div>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>
-        Passionate Backend Engineer and ML Practitioner with expertise in:
-      </p>
-      <ul>
-        <li>Designing scalable backend architectures</li>
-        <li>Developing machine learning models</li>
-      </ul>
-      <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Belajar+itu+harus%2C+pintar+itu+bonus;Code+now%2C+debug+later;Keep+it+simple+but+powerful" alt="Typing SVG" />
-      </div>
-    </td>
-  </tr>
-</table>
+---
+
+## 🃏 WHO AM I?
+
+```js
+const dani = {
+    role: "Backend Developer & ML Enthusiast",
+    location: "Indonesia 🇮🇩",
+    currentlyLearning: ["Backend Architecture", "Machine Learning"],
+    philosophy: "Belajar itu harus, pintar itu bonus."
+};
+```
+
+I enjoy building systems, solving problems, and exploring how software and machine learning can work together.
+
+---
+
+# ⚡ SKILL TREE
 
 <div align="center">
-  
-  <!-- Tech Stack Section -->
-  <h2>🚀 Tech Stack</h2>
-  
-  <h3>🔧 Core Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </p>
-  
-  <h3>⚙️ Backend Technologies</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  </p>
-  
-  <h3>🧠 ML/DL Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
-  </p>
-  
-  <!-- GitHub Streak -->
-  <h2>🔥 Coding Activity</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanX-007&theme=dark&hide_border=true&fire=DD2727" alt="DanX-007" />
-  
-  <!-- GitHub Stats -->
-  <h2>📊 GitHub Analytics</h2>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DanX-007&show_icons=true&theme=radical&hide_border=true" alt="DanX-007's stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX-007&layout=compact&theme=radical&hide_border=true" alt="DanX-007's top languages"/>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Trophy -->
-  <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=DanX-007&theme=onedark&no-frame=true&row=2&column=4" alt="DanX-007's trophies"/>
-  
-  <!-- Contact -->
-  <h2>📫 Let's Connect!</h2>
-  <p>
-    <a href="mailto: danisetiawan21057@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://instagram.com/danns_0102">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-  </p>
-  
-  <!-- Custom Quote -->
-  <div align="center" style="margin-top:20px;padding:10px;background:#1F1F1F;border-radius:8px;width:80%">
-    <p style="color:#BBBBBB">© Dani Setiawan</p>
-  </div>
+
+### CORE
+
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,java" />
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
+
+### MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</div>
+
+---
+
+# 📊 STATUS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanX-007&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=E60012&icon_color=E60012" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX-007&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=E60012" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanX-007&theme=dark&hide_border=true&ring=E60012&fire=E60012&currStreakLabel=ffffff" />
+
+</div>
+
+---
+
+# 🎯 CURRENT MISSION
+
+```text
+[✓] Learning Backend Development
+[✓] Exploring Machine Learning
+[✓] Building Personal Projects
+[ ] Becoming a Better Developer
+```
+
+> **Every project is another step forward.**
+
+---
+
+<div align="center">
+
+# 📡 CONNECT
+
+<a href="mailto:danisetiawan21057@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-E60012?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/danns_0102">
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🎭 "SHOW ME YOUR TRUE FORM."
+
+**© Dani Setiawan**
+
 </div>
