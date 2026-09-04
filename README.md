@@ -2,7 +2,7 @@
 
 # DANI SETIAWAN
 
-### `BACKEND DEVELOPER` • `ML ENTHUSIAST`
+### `BACKEND DEVELOPER` • `ML ENGINEER`
 
 > *"Take your time."*
 
@@ -96,8 +96,6 @@ I enjoy building systems, solving problems, and exploring how software and machi
 </a>
 
 <br><br>
-
-### 🎭 "SHOW ME YOUR TRUE FORM."
 
 **© Dani Setiawan**
 
