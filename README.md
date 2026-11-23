@@ -32,4 +32,4 @@ MP ......... [#########-] 8888 / 9999
 ## SAVE POINT
 
 <a href="https://github.com/DanX-007"><img src="https://img.shields.io/badge/GitHub-DanX--007-0a0f45?style=for-the-badge&logo=github&logoColor=f9d65c&labelColor=3b2a6b" alt="GitHub" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Send%20Message-0a0f45?style=for-the-badge&logo=gmail&logoColor=f9d65c&labelColor=3b2a6b" alt="Email" /></a>
+<a href="mailto:danisetiawan21057@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Message-0a0f45?style=for-the-badge&logo=gmail&logoColor=f9d65c&labelColor=3b2a6b" alt="Email" /></a>
