@@ -1,102 +1,35 @@
 <div align="center">
 
-# DANI SETIAWAN
-
-### `BACKEND DEVELOPER` • `ML ENGINEER`
-
-> *"Take your time."*
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E60012&center=true&vCenter=true&width=500&lines=Building+things+that+actually+work.;Code.+Learn.+Repeat.;Keep+it+simple%2C+but+powerful." />
+<img src="./assets/dialogue.svg" alt="Dialogue: Selamat datang, traveler! Aku Dani, Backend Artificer penempa API dan penjinak model AI." width="760" />
 
 </div>
 
----
-
-## WHO AM I?
-
-```js
-const dani = {
-    role: "Backend Developer & ML Enthusiast",
-    location: "Indonesia 🇮🇩",
-    currentlyLearning: ["Backend Architecture", "Machine Learning"],
-};
-```
-
-I enjoy building systems, solving problems, and exploring how software and machine learning can work together.
-
----
-
-# ⚡ SKILL TREE
-
-<div align="center">
-
-### CORE
-
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,cpp" />
-
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
-
-### MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</div>
-
----
-
-# 📊 STATUS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanX-007&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=E60012&icon_color=E60012" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanX-007&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=E60012" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanX-007&theme=dark&hide_border=true&ring=E60012&fire=E60012&currStreakLabel=ffffff" />
-
-</div>
-
----
-
-# 🎯 CURRENT MISSION
+## STATUS
 
 ```text
-[✓] Learning Backend Development
-[✓] Exploring Machine Learning
-[✓] Building Personal Projects
-[ ] Becoming a Better Developer
+NAME ....... Dani
+CLASS ...... Backend Artificer
+SUB-JOB .... AI Summoner
+LV ......... 25
+HP ......... [##########] 9999 / 9999
+MP ......... [#########-] 8888 / 9999
 ```
 
-> **Every project is another step forward.**
+## EQUIPMENT
 
----
+<img src="https://skillicons.dev/icons?i=python,nodejs,go,postgres,redis,docker,linux,git,pytorch&theme=dark" alt="Tech stack" />
 
-<div align="center">
+## RANDOM ENCOUNTER
 
-# 📡 CONNECT
+> A wild Contribution Worm appears!
 
-<a href="mailto:danisetiawan21057@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-E60012?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanX-007/DanX-007/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanX-007/DanX-007/output/snake.svg" />
+  <img alt="Contribution worm eating my commit graph" src="https://raw.githubusercontent.com/DanX-007/DanX-007/output/snake-dark.svg" />
+</picture>
 
-<a href="https://instagram.com/danns_0102">
-<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+## SAVE POINT
 
-<br><br>
-
-**© Dani Setiawan**
-
-</div>
+<a href="https://github.com/DanX-007"><img src="https://img.shields.io/badge/GitHub-DanX--007-0a0f45?style=for-the-badge&logo=github&logoColor=f9d65c&labelColor=3b2a6b" alt="GitHub" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Send%20Message-0a0f45?style=for-the-badge&logo=gmail&logoColor=f9d65c&labelColor=3b2a6b" alt="Email" /></a>
